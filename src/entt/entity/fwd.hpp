@@ -8,39 +8,30 @@
 namespace entt {
 
 
-/*! @class basic_registry */
 template <typename>
 class basic_registry;
 
-/*! @class basic_view */
 template<typename...>
 class basic_view;
 
-/*! @class basic_runtime_view */
 template<typename>
 class basic_runtime_view;
 
-/*! @class basic_group */
 template<typename...>
 class basic_group;
 
-/*! @class basic_observer */
 template<typename>
 class basic_observer;
 
-/*! @struct basic_actor */
 template <typename>
 struct basic_actor;
 
-/*! @class basic_snapshot */
 template<typename>
 class basic_snapshot;
 
-/*! @class basic_snapshot_loader */
 template<typename>
 class basic_snapshot_loader;
 
-/*! @class basic_continuous_loader */
 template<typename>
 class basic_continuous_loader;
 
